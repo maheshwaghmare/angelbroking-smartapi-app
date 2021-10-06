@@ -1,0 +1,33 @@
+
+.ab-api-login-form {
+    background: white;
+    padding: 25px 30px;
+    border-radius: 4px;
+    box-shadow: -5px 5px 2px 2px rgb(0 0 0 / 27%);
+    margin-top: 3em;
+}
+
+.ab-api-login-form h2 {
+    margin: 0 0 25px 0;
+}
+
+.ab-api-login-form label {
+    display: block;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.ab-api-login-form input {
+    padding: 8px 10px;
+    width: 100%;
+    margin: 3px 0px 15px 0px;
+}
+
+.ab-api-login-form button {
+    border-radius: 3px;
+    background: #ff9800;
+    border: none;
+    padding: 10px 40px;
+    font-weight: bold;
+    cursor: pointer;
+}

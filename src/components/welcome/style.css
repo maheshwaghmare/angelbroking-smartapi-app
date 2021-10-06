@@ -1,0 +1,11 @@
+.ab-api-welcome h2 {
+    color: white;
+    margin: 0;
+}
+
+.ab-api-welcome {
+    background: linear-gradient(45deg, #03a9f4, #673ab7);
+    padding: 10px 15px;
+    margin-top: 50px;
+    border-radius: 4px;
+}
