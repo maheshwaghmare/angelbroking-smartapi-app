@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/angelbroking-smartapi-app/static/css/main.fa49faa9.chunk.css",
+    "main.js": "/angelbroking-smartapi-app/static/js/main.2c222e40.chunk.js",
+    "main.js.map": "/angelbroking-smartapi-app/static/js/main.2c222e40.chunk.js.map",
+    "runtime-main.js": "/angelbroking-smartapi-app/static/js/runtime-main.6d091c29.js",
+    "runtime-main.js.map": "/angelbroking-smartapi-app/static/js/runtime-main.6d091c29.js.map",
+    "static/js/2.9ae839c0.chunk.js": "/angelbroking-smartapi-app/static/js/2.9ae839c0.chunk.js",
+    "static/js/2.9ae839c0.chunk.js.map": "/angelbroking-smartapi-app/static/js/2.9ae839c0.chunk.js.map",
+    "static/js/3.2f3e348b.chunk.js": "/angelbroking-smartapi-app/static/js/3.2f3e348b.chunk.js",
+    "static/js/3.2f3e348b.chunk.js.map": "/angelbroking-smartapi-app/static/js/3.2f3e348b.chunk.js.map",
+    "index.html": "/angelbroking-smartapi-app/index.html",
+    "static/css/main.fa49faa9.chunk.css.map": "/angelbroking-smartapi-app/static/css/main.fa49faa9.chunk.css.map",
+    "static/js/2.9ae839c0.chunk.js.LICENSE.txt": "/angelbroking-smartapi-app/static/js/2.9ae839c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d091c29.js",
+    "static/js/2.9ae839c0.chunk.js",
+    "static/css/main.fa49faa9.chunk.css",
+    "static/js/main.2c222e40.chunk.js"
+  ]
+}
